@@ -137,19 +137,19 @@ D:\Temp\GEAS_yyyyMMdd.log
 ### Install
 
 ```powershell
--Mode Install
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\Deploy-BatchSignCS.ps1" -Mode Install
 ```
 
 ### Uninstall
 
 ```powershell
--Mode Uninstall
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\Deploy-BatchSignCS.ps1" -Mode Uninstall
 ```
 
 ### DryRun
 
 ```powershell
--Mode DryRun
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".\Deploy-BatchSignCS.ps1" -Mode DryRun
 ```
 
 ---
