@@ -80,7 +80,7 @@ D:\Temp
 ## 🧾 Registry 管理
 
 ```
-HKLM\SOFTWARE\RPB\GEAS
+HKLM\SOFTWARE\Company\GEAS
 ```
 
 | Key | 說明 |
